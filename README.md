@@ -1,2 +1,2 @@
 # bit-chess
-An arguably efficient version of my previous chess program
+An arguably more efficient version of my previous chess program.
